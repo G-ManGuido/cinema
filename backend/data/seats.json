@@ -1,0 +1,171 @@
+[
+  {
+    "id": "2a6c2205",
+    "reihe": "4",
+    "seatNumber": "1",
+    "isBooked": false,
+    "price": 15
+  },
+  {
+    "id": "2a6c2283",
+    "reihe": "4",
+    "seatNumber": "2",
+    "isBooked": false,
+    "price": 15
+  },
+  {
+    "id": "4b6j2206",
+    "reihe": "4",
+    "seatNumber": "3",
+    "isBooked": false,
+    "price": 15
+  },
+  {
+    "id": "3a6f2283",
+    "reihe": "4",
+    "seatNumber": "4",
+    "isBooked": false,
+    "price": 15
+  },
+  {
+    "id": "7f6j3306",
+    "reihe": "4",
+    "seatNumber": "5",
+    "isBooked": false,
+    "price": 15
+  },
+  {
+    "id": "2p6g2244",
+    "reihe": "4",
+    "seatNumber": "6",
+    "isBooked": false,
+    "price": 15
+  },
+  {
+    "id": "9a6s2204",
+    "reihe": "3",
+    "seatNumber": "1",
+    "isBooked": false,
+    "price": 15
+  },
+  {
+    "id": "9w6c2383",
+    "reihe": "3",
+    "seatNumber": "2",
+    "isBooked": false,
+    "price": 15
+  },
+  {
+    "id": "6x6j4206",
+    "reihe": "3",
+    "seatNumber": "3",
+    "isBooked": false,
+    "price": 15
+  },
+  {
+    "id": "5a7f2983",
+    "reihe": "3",
+    "seatNumber": "4",
+    "isBooked": false,
+    "price": 15
+  },
+  {
+    "id": "1y6j3206",
+    "reihe": "3",
+    "seatNumber": "5",
+    "isBooked": false,
+    "price": 15
+  },
+  {
+    "id": "2p6g1247",
+    "reihe": "3",
+    "seatNumber": "6",
+    "isBooked": false,
+    "price": 15
+  },
+  {
+    "//first_comment": "Unterrang",
+    "id": "2a7a2205",
+    "reihe": "2",
+    "seatNumber": "1",
+    "isBooked": false,
+    "price": 10
+  },
+  {
+    "id": "2a5b2283",
+    "reihe": "2",
+    "seatNumber": "2",
+    "isBooked": false,
+    "price": 10
+  },
+  {
+    "id": "1g6j2806",
+    "reihe": "2",
+    "seatNumber": "3",
+    "isBooked": false,
+    "price": 10
+  },
+  {
+    "id": "9u6f9283",
+    "reihe": "2",
+    "seatNumber": "4",
+    "isBooked": false,
+    "price": 10
+  },
+  {
+    "id": "9h6j3806",
+    "reihe": "2",
+    "seatNumber": "5",
+    "isBooked": false,
+    "price": 10
+  },
+  {
+    "id": "4i6g9254",
+    "reihe": "2",
+    "seatNumber": "6",
+    "isBooked": false,
+    "price": 10
+  },
+  {
+    "id": "6u7d9207",
+    "reihe": "1",
+    "seatNumber": "1",
+    "isBooked": false,
+    "price": 10
+  },
+  {
+    "id": "3k7d4506",
+    "reihe": "1",
+    "seatNumber": "2",
+    "isBooked": false,
+    "price": 10
+  },
+  {
+    "id": "6x7d4206",
+    "reihe": "1",
+    "seatNumber": "3",
+    "isBooked": false,
+    "price": 10
+  },
+  {
+    "id": "3a7k2983",
+    "reihe": "1",
+    "seatNumber": "4",
+    "isBooked": false,
+    "price": 10
+  },
+  {
+    "id": "1u6j3216",
+    "reihe": "1",
+    "seatNumber": "5",
+    "isBooked": false,
+    "price": 10
+  },
+  {
+    "id": "9l6g1247",
+    "reihe": "1",
+    "seatNumber": "6",
+    "isBooked": false,
+    "price": 10
+  }
+]
